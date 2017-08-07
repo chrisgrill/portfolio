@@ -15,3 +15,7 @@ Generated path based on waypoints and implemented PID controller in Matlab.
 
 <a target="_blank" href="https://www.youtube.com/watch?v=LbkvjpcRCvk"><img src="https://img.youtube.com/vi/LbkvjpcRCvk/0.jpg"/></a>
 
+<a target="_blank" href="https://www.youtube.com/watch?v=F2Rn60Y3RQc"><img src="https://img.youtube.com/vi/F2Rn60Y3RQc/0.jpg"/></a>
+
+
+
